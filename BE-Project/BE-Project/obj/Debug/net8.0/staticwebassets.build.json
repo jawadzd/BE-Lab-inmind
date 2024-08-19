@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "WVlf54joY4bZQxHIXxMXrLQsut6A6FcUdGNTaYqZ9fE=",
+  "Source": "BE-Project",
+  "BasePath": "_content/BE-Project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BE-Project\\wwwroot",
+      "Source": "BE-Project",
+      "ContentRoot": "D:\\Me\\inmind.ai\\sessions\\session12\\BE-Project\\BE-Project\\wwwroot\\",
+      "BasePath": "_content/BE-Project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Me\\inmind.ai\\sessions\\session12\\BE-Project\\BE-Project\\wwwroot\\uploads\\2024-02-16_00.34.27.png",
+      "SourceId": "BE-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Me\\inmind.ai\\sessions\\session12\\BE-Project\\BE-Project\\wwwroot\\",
+      "BasePath": "_content/BE-Project",
+      "RelativePath": "uploads/2024-02-16_00.34.27.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2024-02-16_00.34.27.png"
+    },
+    {
+      "Identity": "D:\\Me\\inmind.ai\\sessions\\session12\\BE-Project\\BE-Project\\wwwroot\\uploads\\2024-08-12_23.27.53.png",
+      "SourceId": "BE-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Me\\inmind.ai\\sessions\\session12\\BE-Project\\BE-Project\\wwwroot\\",
+      "BasePath": "_content/BE-Project",
+      "RelativePath": "uploads/2024-08-12_23.27.53.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2024-08-12_23.27.53.png"
+    }
+  ]
+}
